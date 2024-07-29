@@ -6,8 +6,8 @@ This repository contains experiment setup and prototype for thesis: Protecting A
 - Cpu Arch: AArch64
 
 ## Build LLVM/clang
-The code for llvm is cloned from [llvm/llvm-project](https://github.com/llvm/llvm-project)
-The commit id is `7cbf1a2591520c2491aa3`
+The code for llvm is cloned from [llvm/llvm-project](https://github.com/llvm/llvm-project).
+The commit id is `7cbf1a2591520c2491aa3`.
 ### Apply diff to llvm-project:
 ```
 git clone https://github.com/llvm/llvm-project.git
